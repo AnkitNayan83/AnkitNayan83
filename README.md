@@ -2,7 +2,7 @@
 - 👀 I’m interested in WebDevelopment, DSA, BlockChain
 - 🌱 I’m currently learning Solidity, Next.js
 - 📫 How to reach me 
--    My Website: [Portfolio](https://rad-gnome-03a824.netlify.app/)
+-    My Website: [Portfolio](https://ankit-nayan-portfolio.netlify.app/)
 -    Linked in: [linkedIn](https://www.linkedin.com/in/ankit-nayan-816337221/)
 -    Instagram: AnkitNayan83
 -    Twitter: @AnkitNayan_
