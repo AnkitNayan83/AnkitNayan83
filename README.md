@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AnkitNayan83
-- 👀 I’m interested in WebDevelopment, DSA, BlockChain
-- 🌱 I’m currently learning Solidity, Next.js
+- 👋 Hi, I’m <strong>AnkitNayan83</strong>
+- 👀 I’m interested in web development, DSA, BlockChain
+- 🌱 I’m currently learning Tailwind, Next.js
 - 📫 How to reach me 
 -    My Website: [Portfolio](https://ankit-nayan-portfolio.netlify.app/)
 -    Linked in: [linkedIn](https://www.linkedin.com/in/ankit-nayan-816337221/)
