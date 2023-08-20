@@ -21,6 +21,8 @@ Here are a few things I've picked up along my learning journey.
 
 ### ⚡ Github Stats
 
+*please hover the image in case of not showing stats* 
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitNayan83&layout=compact&langs_count=10&theme=dark" alt="AnkitNayan83" />
 </p>
