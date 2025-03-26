@@ -2,7 +2,7 @@
 
 I am a hardworking and motivated professional with a passion for problem-solving and full-stack web development. With a strong focus on time management and leadership, I strive to deliver high-quality results and meet project deadlines efficiently. I possess excellent problem-solving skills and have a solid understanding of various programming languages and frameworks.
 
-### 🔭 Have a look at my [website](https://ankit-nayan-portfolio.netlify.app).
+### 🔭 Have a look at my [website](https://ankitnaya.tech).
 
 ## ⚡ Tech Stack
 
